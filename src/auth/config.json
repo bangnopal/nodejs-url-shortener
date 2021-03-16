@@ -1,0 +1,9 @@
+{
+    "_COMMENT": "please change the host, username, database, and password according to yours",
+    "port": 5700,
+    "db_host": "YOUR_DATABASE_HOST",
+    "db_user": "DB_USERNAME",
+    "db_pass": "@DB_PASSWORR",
+    "db_name": "DB_NAME",
+    "base_url": "BASE_URL"
+}
